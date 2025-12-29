@@ -27,7 +27,7 @@ I focus on developing full-stack systems using **Laravel, Vue.js, Inertia.js, Re
 
 | Project | Description | Tech Stack | Visibility |
 |----------|--------------|------------|-------------|
-| **Human Resource Management System (HRMS)** | Comprehensive HRMS with role-based dashboards for Admin, Manager, and Employee; includes leave, attendance, and department management; advanced analytics and 2FA security. | Laravel, Inertia.js, Vue.js, MySQL | 🔓 Public |
+| **Human Resource Management System (HRMS)** | Comprehensive HRMS with role-based dashboards for Admin, Manager, and Employee; includes leave, attendance, and department management; advanced analytics and 2FA security. | Laravel, Inertia.js, Vue.js, MySQL | 🔒 Private|
 | **Mini Issue Tracker** | Built as part of coursework requirements — a Laravel-based issue tracker for small teams, with role-based authentication, project tracking, and commenting system. | Laravel, Blade, MySQL | 🔓 Public |
 | **React User Management System** | Created according to specific assignment requirements — CRUD app with user management, search, and sorting. Some logical limitations remain for educational purposes. | React, Redux Toolkit, React Router | 🔓 Public |
 | **Brick Breaker Game** | A simple desktop game built to learn and practice OOP concepts. Features classic gameplay with paddle and ball mechanics, collision detection, and multiple levels. Focuses on applying OOP principles such as inheritance, encapsulation, and polymorphism using Java Swing. | Java, Swing, OOP | 🔓 Public |
